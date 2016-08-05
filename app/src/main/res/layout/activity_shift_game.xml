@@ -1,0 +1,215 @@
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/TableLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#00FFFF"
+     >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <TableRow
+            android:id="@+id/line1"
+            android:layout_width="match_parent"
+            android:layout_height="0dip"
+            android:layout_weight="2" >
+
+            <Button
+                android:id="@+id/bn0"
+                android:layout_width="0dip"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@mipmap/photo4096"
+                android:textColor="#FFFF00"
+                android:textSize="45sp" />
+
+            <Button
+                android:id="@+id/bn1"
+                android:layout_width="0dip"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@mipmap/photo4096"
+                android:textColor="#FFFF00"
+                android:textSize="45sp" />
+
+            <Button
+                android:id="@+id/bn2"
+                android:layout_width="0dip"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@mipmap/photo4096"
+                android:textColor="#FFFF00"
+                android:textSize="45sp" />
+
+            <Button
+                android:id="@+id/bn3"
+                android:layout_width="0dip"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@mipmap/photo4096"
+                android:textColor="#FFFF00"
+                android:textSize="45sp" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/line2"
+            android:layout_width="match_parent"
+            android:layout_height="0dip"
+            android:layout_weight="2" >
+
+            <Button
+                android:id="@+id/bn4"
+                android:layout_width="0dip"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@mipmap/photo4096"
+                android:textColor="#FFFF00"
+                android:textSize="45sp" />
+
+            <Button
+                android:id="@+id/bn5"
+                android:layout_width="0dip"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@mipmap/photo4096"
+                android:textColor="#FFFF00"
+                android:textSize="45sp" />
+
+            <Button
+                android:id="@+id/bn6"
+                android:layout_width="0dip"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@mipmap/photo4096"
+                android:textColor="#FFFF00"
+                android:textSize="45sp" />
+
+            <Button
+                android:id="@+id/bn7"
+                android:layout_width="0dip"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@mipmap/photo4096"
+                android:textColor="#FFFF00"
+                android:textSize="45sp" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/line3"
+            android:layout_width="match_parent"
+            android:layout_height="0dip"
+            android:layout_weight="2" >
+
+            <Button
+                android:id="@+id/bn8"
+                android:layout_width="0dip"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@mipmap/photo4096"
+                android:textColor="#FFFF00"
+                android:textSize="45sp" />
+
+            <Button
+                android:id="@+id/bn9"
+                android:layout_width="0dip"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@mipmap/photo4096"
+                android:textColor="#FFFF00"
+                android:textSize="45sp" />
+
+            <Button
+                android:id="@+id/bn10"
+                android:layout_width="0dip"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@mipmap/photo4096"
+                android:textColor="#FFFF00"
+                android:textSize="45sp" />
+
+            <Button
+                android:id="@+id/bn11"
+                android:layout_width="0dip"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@mipmap/photo4096"
+                android:textColor="#FFFF00"
+                android:textSize="45sp" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/line4"
+            android:layout_width="match_parent"
+            android:layout_height="0dip"
+            android:layout_weight="2" >
+
+            <Button
+                android:id="@+id/bn12"
+                android:layout_width="0dip"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@mipmap/photo4096"
+                android:textColor="#FFFF00"
+                android:textSize="45sp" />
+
+            <Button
+                android:id="@+id/bn13"
+                android:layout_width="0dip"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@mipmap/photo4096"
+                android:textColor="#FFFF00"
+                android:textSize="45sp" />
+
+            <Button
+                android:id="@+id/bn14"
+                android:layout_width="0dip"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@mipmap/photo4096"
+                android:textColor="#FFFF00"
+                android:textSize="45sp" />
+
+            <Button
+                android:id="@+id/bn15"
+                android:layout_width="0dip"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@mipmap/photo2048"
+                android:textColor="#FFFF00"
+                android:textSize="45sp" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="0dip"
+            android:layout_weight="2" >
+
+            <Button
+                android:id="@+id/refresh"
+                android:layout_width="0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:background="@mipmap/blank_9"
+                android:gravity="center"
+                android:text="重新开始"
+                android:textColor="#999966"
+                android:textSize="26sp" />
+
+            <Button
+                android:id="@+id/askhelp"
+                android:layout_width="0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@mipmap/blank_5"
+                android:gravity="center"
+                android:text="使用帮助"
+                android:textColor="#999966"
+                android:textSize="26sp" />
+        </TableRow>
+    </LinearLayout>
+
+</TableLayout>
